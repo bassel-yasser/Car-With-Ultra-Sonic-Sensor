@@ -1,0 +1,14 @@
+Here’s What You Need To Build An Obstacle Avoiding
+Robot Car
+• Arduino Uno
+• L293D Motor Driver Shield
+• Micro Servo
+• Ultrasonic Sensor Module
+• 4 x Geared DC Motors & Wheels
+• 9-12V Battery Pack
+o A 9V block battery can’t usually produce enough
+current to drive the four motors. Rechargeable battery
+packs for RC cars tend to work best for this project.
+• 8 x M3 x 15mm Socket Head Screws
+• Ribbon Cable
+• Header Pins
